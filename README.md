@@ -1,4 +1,4 @@
-# calculator-simple-
+# Tkinter-projects-
 
 A calculator made with Python and Tkinter.
 It can do basic math (add, subtract, multiply, divide)
