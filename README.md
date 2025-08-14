@@ -1,7 +1,10 @@
 # Tkinter-projects
 
 @=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=@
--calculator 
+
+--< #1 >--
+
+-calculator (new-design)
 
 A calculator made with Python and Tkinter.
 It can do basic math (add, subtract, multiply, divide)
@@ -21,3 +24,14 @@ Features:
   • Simple and colorful interface with hover effects
 
 @=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=@
+
+--< #2 >--
+
+-calculator (simple-design)
+
+A calculator made with Python and Tkinter.
+It can do basic math (add, subtract, multiply, divide).
+
+
+@=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=@
+
